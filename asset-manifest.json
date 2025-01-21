@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Newspaper-Deploy/static/js/main.4cf50a3f.js",
+    "index.html": "/Newspaper-Deploy/index.html",
+    "main.4cf50a3f.js.map": "/Newspaper-Deploy/static/js/main.4cf50a3f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4cf50a3f.js"
+  ]
+}
